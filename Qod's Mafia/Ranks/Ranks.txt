@@ -1,0 +1,11 @@
+----- HQ -----
+Leader, Co-Leader, Overseer, General, Major General
+
+----- HR -----
+Brigadier, Colonel, Lieutenant Colonel, Major
+
+----- MR -----
+Captain, Lieutenant, Staff Sergeant, Sergeant
+
+----- LR -----
+Corporal, Lance Corporal, Private, Trainee

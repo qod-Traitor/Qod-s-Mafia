@@ -23,12 +23,6 @@ Joined: 12/16/2023
 Points: 7
 Inactivity Warnings: 0
 
-Im_anxiousTeeHee - https://www.roblox.com/users/2314663442/profile
-Rank: Trainee
-Joined: 12/16/2023
-Points: 0
-Inactivity Warnings: 1
-
 robuxboy_nl - https://www.roblox.com/users/373151782/profile
 Rank: Lance Corporal
 Joined 12/17/2023
@@ -64,3 +58,7 @@ Rank: Private
 Joined: 12/17/2023
 Points: 6
 Inactivity Warnings: 0
+
+
+-- User Blacklist --
+Im_anxiousTeeHee - https://www.roblox.com/users/2314663442/profile

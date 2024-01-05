@@ -1,5 +1,5 @@
 ----- HQ -----
-Leader, Co-Leader, Overseer, General, Major General
+Leader, Co-Leader, Overseer, General, Major General, Lieutenant General
 
 ----- HR -----
 Brigadier, Colonel, Lieutenant Colonel, Major

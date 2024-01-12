@@ -1,5 +1,6 @@
 -- Qod's Mafia's Members --
 
+-- 𝗛𝗘𝗔𝗗𝗤𝗨𝗔𝗥𝗧𝗘𝗥𝗦 --
 qodTraitor - https://www.roblox.com/users/2555164654/profile
 Rank: Leader
 Joined: 12/08/2023
@@ -7,25 +8,19 @@ Points: Max
 Inactivity Warnings: 0
 
 jakemax45612 - https://www.roblox.com/users/532073831/profile
-Rank: Sergeant
+Rank: Overseer
 Joined: 12/16/2023
 Points: 12,5
 Inactivity Warnings: 0
 
 robuxboy_nl - https://www.roblox.com/users/373151782/profile
-Rank: Lieutenant
+Rank: Co-Leader
 Joined 12/17/2023
 Points 20
 Inactivity Warnings: 0
 
-HollarBleg - https://www.roblox.com/users/776155047/profile
-Rank: Sergeant
-Joined 12/17/2023
-Points: 11,5
-Inactivity Warnings: 0
-
 romaniautalentNR1 - https://www.roblox.com/users/818633404/profile
-Rank: Staff Sergeant
+Rank: Overseer
 Joined: 12/17/2023
 Points: 15
 Inactivity Warnings: 0
@@ -36,33 +31,9 @@ Joined: 12/17/2023
 Points: 14
 Inactivity Warnings: 8
 
-VANE_2443 - https://www.roblox.com/users/1889800795/profile
-Rank: Lance Corporal
-Joined: 12/17/2023
-Points: 5
-Inactivity Warnings: 0
-
-Owendude375353 - https://www.roblox.com/users/2514117901/profile
-Rank: Private
-Joined: 12/17/2023
-Points: 1
-Inactivity Warnings: 0
-
 villager_iswithurmam https://www.roblox.com/users/2615216595/profile
 Rank: Trainee
 Joined: 12/21/2023
-Points: 0
-Inactivity Warnings: 0
-
-YourAdoptedByMe - https://www.roblox.com/users/1590785628/profile?friendshipSourceType=PlayerSearch
-Rank: Trainee
-Joined: 12/24/2023
-Points: 0
-Inactivity Warnings: 0
-
-rosylpatsy - https://www.roblox.com/users/3301508404/profile?friendshipSourceType=PlayerSearch
-Rank: Trainee
-Joined: 12/24/2023
 Points: 0
 Inactivity Warnings: 0
 
@@ -80,3 +51,10 @@ Points: 0
 Inactivity Warnings: 3
 Kicked on: 12/22/2023
 Kicked out for inactivity
+
+HollarBleg - https://www.roblox.com/users/776155047/profile
+Rank: Sergeant
+Joined 12/17/2023
+Points: 11,5
+Inactivity Warnings: 0
+Left because of his career
